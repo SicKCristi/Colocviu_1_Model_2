@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PracticalTest01">
         <activity android:name=".PracticalTest01SecondaryActivity">
+        </activity>
         <activity
             android:name=".PracticalTest01MainActivity"
             android:exported="true">
